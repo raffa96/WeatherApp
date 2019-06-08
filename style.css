@@ -1,0 +1,25 @@
+html, body {
+    background: url(background.jpeg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#app {
+    width: 100%;
+    height: auto;
+    margin: 80px 0px;
+    text-align: center;
+}
+
+#app .container {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #ffffff;
+    padding: 30px 30px;
+    border-radius: 5px;
+}
+
+#weather {
+    margin: 20px 0px;
+}
